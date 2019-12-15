@@ -1,2 +1,2 @@
 Plik do testu zmian w GitHub
-Linia kodu
+Innego rodzaju test
